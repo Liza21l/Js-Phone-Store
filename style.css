@@ -1,0 +1,129 @@
+header{
+    background-color: #EBDCFF;
+    width: 1440px;
+    height: 82px;
+
+}
+.ImgLogo{
+ margin-left: 50px;
+ margin-top: 5px;
+}
+.logo{
+    margin-left: 120px;
+    margin-top: -50px;
+    font-family: 'Inter';
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+.productsList{
+    display: flex;
+    column-gap: 25px;
+    margin: 20px 0;
+}
+.price{
+    margin-left: 15px;
+}
+input{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: -50px;
+    width: 436px;
+    height: 34px;
+    border-radius: 5px;
+    border: none;
+}
+.Title{
+    text-align: center;
+    margin-top: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+  
+    color: #000000;
+}
+
+.cards{
+    margin-top: 98px;
+    margin-left: 190px;
+    width: 235px;
+    background: #F1E9FF;
+    border-radius: 15px;
+}
+img{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.btnAdd{
+    margin-left: 25px;
+    cursor: pointer;
+    background: #C5B3F8;
+    border-radius: 5px;
+    width: 96px;
+    height: 24px;
+    border: none;
+}
+button{
+    cursor: pointer;
+    background: #6E57AF;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    width: 112px;
+    height: 24px;
+    border: none;
+}
+.line{
+    background: #432598;
+    width: 306px;
+    height: 2px;
+}
+.backetBlock{
+    display: block;
+}
+.name{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    
+}
+.btnBalnce{
+    cursor: pointer;
+    position: absolute;
+    margin-top: -49px;
+    width: 75px;
+    height: 33px;
+    margin-left: 1285px;
+    background: #C5B3F8;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 10px; 
+    color: #000000;
+
+}
+.InputReplenish{
+    
+    margin-left: 1138px;
+    width: 120px;
+    height: 23;
+}
+.balance{
+    margin-top: -35px;
+    margin-left: 1010px;
+}
+.bucketBlock{
+    display: flex;
+    column-gap: 25px;
+    margin: 20px 0; 
+}
