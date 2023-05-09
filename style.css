@@ -61,7 +61,7 @@ img{
     margin-top: 25px;
 }
 .btnAdd{
-    margin-left: 25px;
+    margin-left: 15px;
     cursor: pointer;
     background: #C5B3F8;
     border-radius: 5px;
@@ -126,4 +126,29 @@ button{
     display: flex;
     column-gap: 25px;
     margin: 20px 0; 
+}
+.btnMinus{
+    width: 19px;
+    height: 19px;
+    background: #FDFEB9;
+}
+.btnPlus{
+    width: 19px;
+    height: 19px;
+    background: #FDFEB9;
+}
+.prices{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin-left: 120px;
+    margin-top: -42px;
+    
+}
+.summary{
+    font-size: 14px;
+}
+.count{
+    margin: 4%;
+    margin-top: -18px;
 }
